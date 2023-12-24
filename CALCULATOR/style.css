@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    
+    color: black;
+}
+#calculator{
+    border-color: black;
+    width: fit-content;
+    max-height: fit-content;
+    background-color: black;
+    color: blueviolet;
+
+}
+
+input {
+    width: 100px;
+    height: 50px;
+    font-size: 18px;
+    margin: 5px;
+    background-color: rgb(232,232,232);
+    color: rgba(67, 5, 82, 0.901);
+    border: none;
+}
+#display{
+    background:white;
+    color: black;
+    width:400px;
+    height:50px;
+    margin: 2px;
+    margin-top:8px;
+
+}
+
+
+h2 {
+    color: black;
+}
